@@ -1,5 +1,30 @@
 [
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
+  {
+    "file": "1-cover.jpg",
+    "path": "/?earned=2,3,15&counts=28:9&open=28",
+    "viewport": { "width": 1280, "height": 800 },
+    "scroll": 0,
+    "captureStyle": "html { zoom: .35; }",
+    "note": "Capture-only 35% page zoom fits the hero, audit, progress, toolbar, cards and open trophy 28 including its 9/18 counter and cited missable box in a single top-of-page frame. Shipped app files are unchanged."
+  },
+  {
+    "file": "2-roadmap.jpg",
+    "path": "/?earned=2,3,15&counts=28:9#view=roadmap",
+    "viewport": { "width": 1280, "height": 800 },
+    "scroll": 660
+  },
+  {
+    "file": "3-missables.jpg",
+    "path": "/?earned=2,3,15&counts=28:9#view=missables",
+    "viewport": { "width": 1280, "height": 800 },
+    "scrollEval": "scrollTo({top:document.querySelector('#listSec').getBoundingClientRect().top+scrollY-190,behavior:'instant'})"
+  },
+  {
+    "file": "4-guide.jpg",
+    "path": "/?earned=2,3,15&counts=28:9&open=28",
+    "viewport": { "width": 1280, "height": 800 },
+    "captureStyle": "html{zoom:.85}.layout{grid-template-columns:minmax(0,1fr)}#detail{grid-column:1/-1;grid-row:2;position:relative;top:auto}#listSec{grid-row:3}",
+    "scrollEval": "scrollTo({top:document.querySelector('.official-desc').getBoundingClientRect().top+scrollY-119,behavior:'instant'})",
+    "note": "Capture-only widening of the reading pane across the layout, with sticky positioning released for scrolling and 85% page zoom. The official description, 9/18 stepper, missable and uncertainty boxes, guide, cited steps and Source line fit together. Shipped app files are unchanged."
+  }
 ]
