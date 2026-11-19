@@ -1,392 +1,57 @@
-{
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
-  },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
-}
+{"trophies":[
+{"id":1,"name":"Vice Got a Price!","description":"Congratulations! You're a Leonida Legend.","grade":"platinum","hidden":false,"kind":"misc","missable":false,"count":null,"stage":5,"guide":"Earn all 54 other trophies before looking for the platinum. Follow the roadmap so that campaign unlocks, collectibles, and activity cleanup each have a place. Protect the one possibly missable meditation when its Chapter 1 moment comes. Once the tracker is clear, cross-check all 54 unlocks against the PlayStation list and look for the platinum there.","steps":"Earn the other 54 trophies\nFollow the roadmap in order\nProtect the possibly missable one\nVerify against the PlayStation list","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":2,"name":"Just Like Paradise","description":"Complete Gone Fishing.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Finish Gone Fishing to earn the first mission trophy on the roadmap. Follow the active objectives through to the end instead of looking for a separate fishing challenge. This unlock belongs to the opening of the campaign, so check it before moving deeper into the story. Verify the bronze in your PlayStation trophy list after the mission ends.","steps":"Start Gone Fishing\nFollow the active objectives\nFinish the opening mission\nCheck the trophy list","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":3,"name":"Paradise Lost","description":"Complete Chapter 1.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Play the main story until Chapter 1 is complete. Follow the available story objectives, but handle the balcony meditation before pushing through the chapter boundary. The trophy is tied to the end of the first chapter, not to any individual mission within it. Confirm the bronze on PlayStation as the campaign moves beyond Chapter 1.","steps":"Advance the Chapter 1 story\nDo the balcony meditation first\nFinish the chapter\nCheck the bronze unlock","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":4,"name":"T**s Ass Drug Money","description":"Complete Chapter 2.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Complete the second chapter of the campaign. If this is your next story trophy, prioritize main objectives and leave unrelated activities for another pass. The checkpoint is the transition out of Chapter 2, so simply reaching the chapter is not enough. Once the story advances, check this specific bronze in your PlayStation list.","steps":"Reach Chapter 2\nPrioritize the main story\nPlay through the chapter ending\nVerify the bronze on PlayStation","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":5,"name":"Vice City, Baby!","description":"Complete Chapter 3.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Finish the third chapter of the main story. Keep following the next campaign objective rather than treating the trophy name as a location clue. Plan to check for the unlock when Chapter 3 ends, after the Chapter 2 trophy and before the Chapter 4 finish. Confirm the entry is earned in your PlayStation trophy list before ticking it off here.","steps":"Continue past Chapter 2\nFollow Chapter 3 story objectives\nReach the chapter ending\nConfirm the earned entry","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":6,"name":"Top Of The World, Ma","description":"Complete Chapter 4.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Bring Chapter 4 to a close by progressing the campaign. Keep this goal separate from the final-mission trophy, since its listed requirement is the chapter itself. Check it at the end of Chapter 4 instead of stopping as soon as Chapter 4 becomes available. Use the earned bronze in the PlayStation list to confirm the chapter completion registered.","steps":"Enter Chapter 4\nClear its story objectives\nFinish the full chapter\nFind the earned bronze","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":7,"name":"You Gotta Know When to Get Off","description":"Complete the final mission.","grade":"gold","hidden":true,"kind":"story","missable":false,"count":null,"stage":5,"guide":"Clear the final mission of the main campaign. If the goal is this gold, follow the remaining story objectives and do not wait for the side-activity checklist to be complete. This trophy belongs at the end of the campaign, so hold the tracker tick until the final mission is actually finished. Confirm the gold in your PlayStation trophy list.","steps":"Advance the remaining story\nReach the final mission\nFinish its objectives\nVerify the gold unlock","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":8,"name":"Trust","description":"Complete Breakfast Run.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Complete the mission titled Breakfast Run. Match the exact title in the game so you can follow the mission itself instead of searching for an activity suggested by the name. During the campaign, take this on when Breakfast Run comes up and follow it through to completion. The earned PlayStation bronze is the confirmation to log in your tracker.","steps":"Watch for Breakfast Run\nPlay the named mission\nReach its completion point\nLog the earned bronze","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":9,"name":"Break the Bank","description":"Complete The Cartel Heist.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Complete The Cartel Heist to clear this story requirement. Work through the mission as presented, rather than counting independent robberies toward the unlock. Tackle it at the point in the campaign when The Cartel Heist becomes available and check after its final objective. Look for this bronze under its own name in the PlayStation trophy list.","steps":"Find The Cartel Heist\nFollow its mission objectives\nFinish the entire mission\nCheck for Break the Bank","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":10,"name":"Family Matters","description":"Complete Child's Play.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Finish the mission called Child's Play. Use the mission name to identify the right objective and keep unrelated tracker tasks out of this check. The unlock is tied to the point in the campaign where you finish that mission, not to the start of the mission or to a chapter boundary. Confirm the earned bronze on PlayStation before marking it done.","steps":"Identify Child's Play\nStart the story mission\nPlay through to completion\nConfirm Family Matters unlocked","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":11,"name":"DWNFALL","description":"Complete Headliners.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Complete Headliners as part of the story. Keep the current mission objective in focus and use the name Headliners, rather than the trophy title, to identify what you need to finish. When the campaign brings you to that mission, wait until the game considers it complete to check progress. Confirm DWNFALL is earned in your PlayStation trophy list.","steps":"Watch for Headliners\nFollow the mission objective\nFinish Headliners\nVerify DWNFALL on PlayStation","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":12,"name":"Hi-Jacked","description":"Complete VCIA Takedown.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Finish VCIA Takedown to earn this story trophy. Follow the objectives within the named mission and keep the separate VCIA departure trophy out of this checklist entry. This one belongs at the end of VCIA Takedown when it comes up in your campaign. Check that Hi-Jacked appears as earned on PlayStation before updating your local tracker.","steps":"Reach VCIA Takedown\nFollow its story objectives\nComplete the mission\nCheck for Hi-Jacked","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":13,"name":"Snow Storm","description":"Complete Operation Savage Glory.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Complete Operation Savage Glory for this bronze. Use the exact mission title as your cue and finish every required objective rather than tracking a separate activity under the trophy name. Check it off at the point in your campaign when the whole operation is complete. Verify Snow Storm is unlocked on PlayStation before treating it as done.","steps":"Watch for Operation Savage Glory\nPlay the named mission\nFinish its last objective\nConfirm Snow Storm unlocked","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":14,"name":"A Long Road","description":"Attain 100% Completion.","grade":"gold","hidden":false,"kind":"misc","missable":false,"count":100,"stage":5,"guide":"Raise the game's completion percentage to 100%. Use the game's progress readout to pick unfinished work instead of assuming your trophy tally equals completion. Record the percentage after each batch of tasks and use the last stretch to target what still moves it. At 100%, verify that the gold is earned in the PlayStation list.","steps":"Read the in-game percentage\nChoose unfinished completion tasks\nUpdate the tracker in batches\nVerify 100% and the gold","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":15,"name":"Cunning Stunts","description":"Complete 250 Stunts.","grade":"silver","hidden":false,"kind":"activities","missable":false,"count":250,"stage":4,"guide":"Complete 250 stunts for the silver. Count completions rather than attempts, and keep a running tally so you can resume without estimating how much you did last session. Break the target into blocks of 25 and reconcile your total at the end of each block. At 250 credited stunts, check for the PlayStation unlock before marking the trophy earned.","steps":"Attempt available stunts\nLog successful completions\nWork in blocks of 25\nCheck for silver at 250","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":16,"name":"Master of None","description":"Try each type of activity once.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":9,"stage":4,"guide":"Try all nine activity types at least once. Keep a checklist by type so multiple plays of one activity do not inflate your total or send you back to something you already tried. Aim for a few new types per outing and reserve the final pass for gaps in the list. Check for the bronze after you reach nine distinct types.","steps":"List the activity types\nTry one you haven't logged\nMark each type only once\nVerify the bronze at nine","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":17,"name":"The Shootist","description":"Earn a gold medal in all Shooting Range challenges.","grade":"silver","hidden":false,"kind":"activities","missable":false,"count":42,"stage":4,"guide":"Earn gold in each of the 42 Shooting Range challenges. Use the result of each challenge to sort your checklist into golds and retries; a lower medal does not finish that entry. Work through the range in short sets and revisit only the challenges still missing gold. Check the PlayStation silver once all 42 challenge results show gold.","steps":"Open Shooting Range challenges\nRecord results by challenge\nRetry medals below gold\nVerify 42 golds and the silver","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":18,"name":"Top Fun","description":"Win a Top Fun Drone Race at every location.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":14,"stage":4,"guide":"Win a Top Fun Drone Race at each of the 14 locations. Organize the checklist by location and mark a place only after the result says you won there. Fit in a few locations per session so a difficult course does not stall the rest of your progress. When all 14 locations have a win, confirm the bronze on PlayStation.","steps":"List the drone race locations\nWin at an unchecked location\nLog one win per location\nVerify the bronze after 14","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":19,"name":"Earn Cash, Not Kudos","description":"Win 20 different races.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":20,"stage":4,"guide":"Win 20 distinct races rather than collecting 20 wins on a favorite course. Log each race by its identity after the result so rematches do not pad the total. Build the list in groups of five, moving on from each new win and leaving retries for races still unchecked. Once you have 20 first wins, confirm the earned bronze on PlayStation.","steps":"Pick a race you haven't won\nFinish with a win\nLog 20 distinct race wins\nVerify Earn Cash, Not Kudos","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":20,"name":"Baited My Tackle","description":"Beat Cal in a fishing challenge.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"count":null,"stage":4,"guide":"Defeat Cal in the fishing challenge. Check the rules of that challenge before you begin, since ordinary fishing or a result against another opponent is not the stated goal. Take it on when the challenge is available and give the attempt time to reach a result. Once the result shows you beat Cal, look for the bronze in your PlayStation trophy list.","steps":"Find Cal's fishing challenge\nCheck the scoring rules\nFinish ahead of Cal\nVerify the trophy unlock","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":21,"name":"Stick Fiddler","description":"Complete an arcade game.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":null,"stage":4,"guide":"Play one arcade game through to completion. Pick an available title with a goal you understand and focus on finishing it rather than sampling several games or chasing a high score. Fit this into an activity session when you have time to see the game through instead of quitting partway. Check PlayStation for the bronze after the game ends.","steps":"Pick an available arcade game\nCheck its objective\nPlay through to completion\nConfirm Stick Fiddler unlocked","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":22,"name":"Road to Rehabilitation","description":"Complete the final mission for Andy.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Finish Andy's last mission. Keep Andy's objectives together in your notes so an early mission completion does not get mistaken for the end of his strand. Advance his missions as they become available during your playthrough and check this entry only once you finish the last one. Confirm Road to Rehabilitation shows as earned on PlayStation.","steps":"Identify Andy's missions\nFollow his available objectives\nFinish his final mission\nVerify the bronze on PlayStation","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":23,"name":"This Was No Boat Accident","description":"Complete the final mission for Kenton.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Finish the final mission in Kenton's strand. Follow the objectives attached to Kenton instead of using the trophy title to guess at an unrelated boating task. During your playthrough, pick up his next mission when it appears and wait for the strand's conclusion before checking the trophy. Verify the bronze on your PlayStation trophy list.","steps":"Find Kenton's available objectives\nAdvance his mission strand\nComplete his final mission\nCheck the PlayStation list","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":24,"name":"The Lone Rider","description":"Complete the final mission for Billy.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Complete Billy's last mission for this bronze. Track his missions as a single strand so you know where to pick up after working on other objectives. As the campaign progresses, return when there is another Billy mission and carry the strand through to its ending. Only mark The Lone Rider complete after it shows as earned on PlayStation.","steps":"Locate Billy's mission strand\nTrack its latest objective\nFinish the last Billy mission\nVerify The Lone Rider","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":25,"name":"Strangers & Freaks","description":"Complete 8 mission strands for strangers across the state of Leonida.","grade":"silver","hidden":true,"kind":"story","missable":false,"count":8,"stage":1,"guide":"Finish eight stranger mission strands across Leonida. Count a strand only after its last mission, and keep an in-progress list separate from the completed tally. Pick up strands as they open during the campaign, finishing a few at a time so the last objectives are easy to revisit. At eight completed strands, verify that PlayStation awarded the silver.","steps":"Start available stranger strands\nFollow each to its final mission\nLog eight completed strands\nVerify the silver unlock","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":26,"name":"Supply & Demand","description":"Complete the final mission for Randy.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Finish the final mission for Randy. Keep his unfinished objectives grouped together so you can resume his strand without confusing it with another character's missions. As his missions come up during your playthrough, work toward the final one rather than counting the first as completion. Verify Supply & Demand is earned on PlayStation when the strand ends.","steps":"Find Randy's next mission\nContinue his strand when available\nFinish Randy's last mission\nConfirm Supply & Demand unlocked","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":27,"name":"Spin On This!","description":"Complete the final mission for Tyrone.","grade":"bronze","hidden":true,"kind":"story","missable":false,"count":null,"stage":1,"guide":"Complete Tyrone's final mission. Treat his objectives as one checklist and follow the next available one instead of trying an unrelated activity based on the trophy name. Take on his missions as they appear during the campaign and leave the trophy unchecked until you finish the last one. Confirm the bronze in the PlayStation list before logging it here.","steps":"Find Tyrone's mission strand\nFollow its remaining objectives\nFinish his final mission\nVerify Spin On This! unlocked","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":28,"name":"Positive Mental Attitude","description":"Meditate at every spot across Leonida.","grade":"bronze","hidden":false,"kind":"collectibles","missable":true,"count":18,"stage":1,"guide":"Meditate 18 times at 10 Leonida locations, tracked in the in-game Progress menu under Collections. In Chapter 1, after Down to Earth, Lucia says she’ll meditate and steps onto the balcony at Jason's house; follow and accept, as the spot reportedly disappears when Chapter 1 ends [1][2]. Visit the rest as districts open; the final spot needs Jason and Lucia playable together after Chapter 2 [1]. The trophy registers at 18/18.","steps":"Chapter 1, Jason's house: follow Lucia to the balcony after Down to Earth and meditate with her before the chapter ends [1][2]\nMeditate at each new spot as districts and locations open\nSave the final spot until Jason and Lucia are both playable after Chapter 2 [1]\nCheck the counter at 18/18 in Progress > Collections","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":29,"name":"Fair Game","description":"Hunt a unique animal for Bret.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"count":null,"stage":2,"guide":"Complete Bret's hunt for the single, named unique animal. Use Bret's objective to identify the target, since other hunts do not substitute for this one-off task. Take it on when his hunt is available and follow the objective until the game credits the result. Confirm Fair Game on PlayStation, then log the completed hunt in your tracker.","steps":"Pick up Bret's hunt objective\nIdentify the named target\nComplete the one-off hunt\nVerify and log Fair Game","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":30,"name":"Don't Touch My Deck","description":"Complete 3 Collectible Card sets.","grade":"silver","hidden":false,"kind":"collectibles","missable":false,"count":3,"stage":3,"guide":"Complete three full Collectible Card sets. Sort the cards you've found by set and target the gaps in the closest set instead of using the total number of cards as your measure. Finish one set at a time, then switch your search to the next closest one. Once three sets are complete, confirm the silver in your PlayStation trophy list.","steps":"Sort collected cards by set\nIdentify the nearest complete set\nClose gaps in three sets\nVerify the silver on PlayStation","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":31,"name":"You WAiNKer!","description":"WAiNK It at 100 locations.","grade":"silver","hidden":false,"kind":"collectibles","missable":false,"count":100,"stage":3,"guide":"Use WAiNK It at 100 different locations. Keep your log by location and record a visit only once you have actually used WAiNK It there. Group nearby stops into batches of ten and save a short list of gaps for the final outing. After logging 100 distinct locations, verify that the silver has unlocked on PlayStation.","steps":"Pick a cluster of unchecked stops\nUse WAiNK It at each stop\nLog 100 distinct locations\nConfirm the silver unlock","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":32,"name":"One Last Thing","description":"Complete 50 Challenges.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":50,"stage":4,"guide":"Complete 50 challenges. Check the goals of the available challenges and start with ones that fit what you already plan to do, counting only completed results. Work in batches of ten and leave longer challenges for when the remaining list is clearer. At 50 completions, look for One Last Thing in your PlayStation trophy list.","steps":"Review available challenge goals\nChoose challenges that fit your plans\nLog completions in batches of ten\nVerify the bronze at 50","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":33,"name":"Hot Together","description":"Lose a 4 star Wanted Level with your partner and escape the heat.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":null,"stage":4,"guide":"Escape a four-star Wanted Level in the game while with your partner. Check that your partner is present and that the HUD shows exactly four stars before treating the run as an attempt. Try it during activity cleanup when playing with your partner is available, then stay together through the end. Check the PlayStation list after the Wanted Level clears.","steps":"Make sure your partner is present\nConfirm four stars on the HUD\nClear the in-game Wanted Level together\nVerify Hot Together unlocked","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":34,"name":"Retail Therapy","description":"Rob 3 shops back-to-back with your partner without losing your Wanted Level.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":3,"stage":2,"guide":"With your partner, complete three in-game shop robberies under one uninterrupted Wanted Level. Set aside a single run for all three and track the chain, not your lifetime total. If the stars clear before the third shop, the attempt does not count; reset your tally and try again. Verify the PlayStation bronze after the full three-shop chain.","steps":"Start an in-game run with your partner\nComplete three shop objectives in one chain\nRestart the attempt if your Wanted Level clears\nVerify Retail Therapy on PlayStation","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":35,"name":"Whip It Good","description":"Discover 100 vehicles.","grade":"bronze","hidden":false,"kind":"collectibles","missable":false,"count":100,"stage":3,"guide":"Discover 100 vehicles for the bronze. Keep a list of discoveries the game credits so that repeated encounters with an already logged vehicle do not inflate your count. Add discoveries during normal exploration, then make shorter passes for the gaps instead of leaving all 100 for cleanup. Check for the unlock on PlayStation at 100 credited discoveries.","steps":"Look for unlogged vehicles\nRecord credited discoveries\nBuild toward 100 in batches\nConfirm Whip It Good unlocked","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":36,"name":"Gunslinger","description":"Take down 5 enemies in a single use of Combat Focus.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":5,"stage":4,"guide":"Take down five enemies during one use of the game's Combat Focus ability. Start an attempt only when the encounter has enough eligible enemies to meet the requirement in one activation. Count within that activation and reset to zero if it ends early; separate uses do not add together. After the fifth takedown in a single use, check for the PlayStation bronze.","steps":"Wait for an eligible game encounter\nActivate Combat Focus once\nCount five takedowns in that use\nVerify the bronze unlock","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":37,"name":"Catch Me If You Can","description":"Make an unscheduled departure at VCIA.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"count":null,"stage":4,"guide":"Make an unscheduled departure at VCIA in the game. The description identifies the place but does not spell out the action, so check the available in-game options rather than assuming an ordinary visit qualifies. Try this when you can reach VCIA during activity cleanup. Use the PlayStation trophy unlock, not just leaving the area, as confirmation.","steps":"Reach VCIA in the game\nCheck the available departure options\nMake an unscheduled departure\nConfirm the bronze on PlayStation","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":38,"name":"Challenging Tank","description":"Kinda hot in these Rhinos.","grade":"bronze","hidden":false,"kind":"misc","missable":false,"count":null,"stage":4,"guide":"Look for an in-game interaction involving a Rhino tank. The description hints at the vehicle without saying exactly what triggers the trophy, so start with what the game lets you do with a Rhino rather than chasing other tanks. Leave this for activity cleanup once you encounter one. Check the PlayStation list to tell whether the interaction qualified.","steps":"Look for a Rhino in the game\nCheck its available interactions\nTry the Rhino-related action\nVerify Challenging Tank on PlayStation","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":39,"name":"Sneakthief","description":"Rob a jewelry store without being detected.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":null,"stage":4,"guide":"Finish an in-game jewelry store robbery without detection. Pay attention to the game’s detection feedback rather than assuming a successful robbery also counts as an unseen one. Give this its own attempt during activity cleanup, and start a fresh attempt if the game registers detection. Confirm Sneakthief on PlayStation after an undetected completion.","steps":"Start the jewelry store activity\nWatch in-game detection feedback\nFinish without being detected\nCheck for Sneakthief","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":40,"name":"Maximum Withdrawal","description":"Rob 5 Bank Vaults and escape.","grade":"silver","hidden":false,"kind":"activities","missable":false,"count":5,"stage":4,"guide":"Complete five in-game Bank Vault robberies and escape each time. Track a vault only after the escape is complete, since taking the loot on its own does not meet the description. Work through one vault at a time and update the tally before moving to another activity. After five qualifying escapes, check the PlayStation list for the silver.","steps":"Start a Bank Vault activity\nComplete the robbery and escape\nLog five successful escapes\nVerify Maximum Withdrawal","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":41,"name":"A Classic Blitz Play","description":"Rob an Armored Truck and escape.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":null,"stage":4,"guide":"Complete an in-game Armored Truck robbery and escape. Treat the robbery and escape as two parts of the same objective, and keep playing until the game credits the escape. Attempt it when the truck activity is available and you have time for the full run. After both parts are complete, confirm A Classic Blitz Play is earned on PlayStation.","steps":"Start the Armored Truck activity\nFinish the in-game robbery\nComplete the escape\nCheck for the bronze","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":42,"name":"The Goodtime State","description":"Explore all of Leonida.","grade":"bronze","hidden":false,"kind":"collectibles","missable":false,"count":52,"stage":3,"guide":"Explore all 52 areas of Leonida. Use the map to group nearby areas together and track which ones you have actually explored so return trips serve a purpose. Fill in clusters during regular travel, then dedicate a final pass to the unchecked areas. Once all 52 are covered, look for The Goodtime State in the PlayStation list.","steps":"Review the map for unexplored areas\nGroup nearby stops\nCheck off all 52 areas\nConfirm The Goodtime State","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":43,"name":"Pest Control","description":"Rob an Illegal Operation belonging to each gang.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":9,"stage":4,"guide":"Complete an in-game Illegal Operation robbery for each of the nine gangs. Check which gang owns the operation and keep a tally by gang, not by the total number of robberies. Clear a few unchecked gangs per session and save the last pass for those you still need. Confirm the bronze on PlayStation once all nine gangs are represented.","steps":"Identify the operation’s gang\nChoose one you haven’t logged\nRecord one completed robbery per gang\nVerify Pest Control at nine","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":44,"name":"In The Beginning…","description":"Enjoy a cocktail with a view on Ocean Beach.","grade":"bronze","hidden":true,"kind":"misc","missable":false,"count":null,"stage":3,"guide":"Have a cocktail with a view on Ocean Beach. Look for a cocktail interaction there and follow it through rather than counting any drink in the area or just visiting the beach. Fit this into an exploration pass when you are already checking Ocean Beach. After the interaction, verify that the bronze appears as earned on PlayStation.","steps":"Visit Ocean Beach\nLook for a cocktail with a view\nComplete the drink interaction\nCheck the PlayStation unlock","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":45,"name":"Capital Offense","description":"Smash your way out of a vehicle showroom in classic style.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"count":null,"stage":4,"guide":"Smash out of a vehicle showroom in the game. Look for an opportunity in the showroom itself, since a crash elsewhere or an ordinary exit does not match the description. Try it during activity cleanup when a showroom is accessible rather than interrupting a separate objective. Check PlayStation for the bronze after the exit.","steps":"Find an accessible vehicle showroom\nLook for the in-game exit opportunity\nSmash your way out in the game\nVerify Capital Offense unlocked","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":46,"name":"Let’s Go Bowling","description":"Follow-through at the Kolt & Associates' bowling alley.","grade":"bronze","hidden":true,"kind":"activities","missable":false,"count":null,"stage":4,"guide":"Play through the bowling activity at the Kolt & Associates alley. Use the alley named in the description and finish the available bowling interaction instead of treating a visit as enough. Slot this into your activity pass when you can stay long enough to reach the result. Check the PlayStation list for the bronze after bowling.","steps":"Find the Kolt & Associates alley\nStart the bowling activity\nPlay through to the result\nCheck the earned bronze","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":47,"name":"Personal Best","description":"A partnership with mass appeal.","grade":"bronze","hidden":true,"kind":"misc","missable":false,"count":null,"stage":5,"guide":"Look for a partnership-related moment that fits the description’s clue about mass appeal. The wording does not identify an exact action, so prioritize explicit partner interactions without assuming that any one of them is the trigger. Review this during final cleanup after seeing the campaign’s partnership moments. Confirm the bronze on PlayStation before checking it off.","steps":"Read the partnership clue\nReview available partner interactions\nCheck outstanding options in cleanup\nVerify Personal Best on PlayStation","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":48,"name":"Actions Speak Louder","description":"Choices made (for better or worse).","grade":"bronze","hidden":true,"kind":"misc","missable":false,"count":500,"stage":5,"guide":"Make choices that register toward the trophy’s 500 target. The description does not specify which decisions qualify, so use credited progress rather than counting every button press. Let ordinary play build the total, then review it in blocks of 50 during cleanup to see how much remains. At 500 credited choices, verify the bronze on PlayStation.","steps":"Make choices during normal play\nTrack only credited progress\nReview the count in blocks of 50\nVerify the bronze at 500","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":49,"name":"Bad Luck, I Guess","description":"Second time's the charm.","grade":"bronze","hidden":true,"kind":"misc","missable":false,"count":null,"stage":5,"guide":"Look for an in-game outcome that succeeds on a second try. The trophy clue does not say which event qualifies, so favor a clear retry when the game offers one instead of assuming every repeated task counts. Revisit this during cleanup if it did not unlock in normal play. Use the earned PlayStation bronze to verify a qualifying result.","steps":"Look for a clear retry opportunity\nTry for a second-attempt success\nReview this during cleanup\nCheck for Bad Luck, I Guess","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":50,"name":"The Truth Is Out There","description":"What the hell just happened?","grade":"bronze","hidden":true,"kind":"misc","missable":false,"count":null,"stage":5,"guide":"Look for an unusual in-game event that fits the trophy’s clue. The description gives no specific place or trigger, so follow an unusual encounter to its conclusion rather than assuming a particular rumor is the answer. Review this during final cleanup if it has not earned itself during exploration. Confirm the bronze on PlayStation before logging it.","steps":"Watch for an unusual event\nFollow the encounter through\nRecheck it during final cleanup\nVerify the PlayStation bronze","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":51,"name":"Ten Pin","description":"Bowl 'em over with a melee drive-by.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":null,"stage":4,"guide":"Use the game’s melee drive-by action to knock a target down. Check the in-game controls for that move first, since a collision or another attack is not the listed action. Try it during activity cleanup when the game lets you use the move, and judge the result by a knockdown rather than contact alone. Look for Ten Pin in your PlayStation list afterward.","steps":"Check the melee drive-by control\nUse the move in the game\nGet a qualifying knockdown\nVerify Ten Pin unlocked","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":52,"name":"Dime on the Dollar","description":"Earn $250,000 laundering Marked Bills through your contacts.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":250000,"stage":4,"guide":"Earn $250,000 from the game’s Marked Bills activity through your contacts. Track the money credited from that activity rather than your wallet balance or the face value of unprocessed bills. Use $50,000 milestones to check your pace and update the tally after each credited payout. At $250,000 earned, confirm the bronze in your PlayStation list.","steps":"Open the in-game contact activity\nRecord credited Marked Bills payouts\nTrack $50,000 milestones\nVerify the bronze at $250,000","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":53,"name":"Treat Yo Self","description":"Spend $100,000 across all shops.","grade":"bronze","hidden":false,"kind":"activities","missable":false,"count":100000,"stage":4,"guide":"Spend $100,000 across in-game shops. Count completed shop purchases rather than cash earned, cash held, or purchases outside shops. Build up the total with things you already intend to buy, checking at $25,000 intervals before spending just to close the gap. When credited shop spending reaches $100,000, confirm the PlayStation trophy.","steps":"Make planned shop purchases\nLog credited shop spending\nCheck every $25,000\nVerify the bronze at $100,000","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":54,"name":"Little Boxes","description":"Purchase all garage properties.","grade":"bronze","hidden":false,"kind":"collectibles","missable":false,"count":8,"stage":5,"guide":"Buy all eight garage properties. Keep a list of garages you own and compare it with the properties you can buy so you know what still needs funding. Purchase garages as funds allow, tracking one property at a time and using final cleanup for any still unchecked. When you own all eight, confirm that Little Boxes unlocked on PlayStation.","steps":"List the garage properties\nCheck which garages you own\nBuy the remaining properties\nVerify the trophy at eight","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."},
+{"id":55,"name":"On the Spot","description":"Register 10 vehicles to the Scooter Bros app.","grade":"bronze","hidden":false,"kind":"collectibles","missable":false,"count":10,"stage":3,"guide":"Register ten vehicles in the in-game Scooter Bros app. Use the app to confirm each registration, since spotting or driving a vehicle does not by itself complete the stated task. Aim for a few confirmed entries per outing and check for any gaps before the final batch. When the app confirms ten registrations, look for the bronze on PlayStation.","steps":"Open the Scooter Bros app\nRegister an eligible vehicle\nTrack ten confirmed registrations\nVerify On the Spot unlocked","source":"Official PlayStation trophy list, as listed by Exophase and PSNProfiles."}
+]}
