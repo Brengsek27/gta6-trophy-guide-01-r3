@@ -3,9 +3,7 @@
     "file": "1-cover.jpg",
     "path": "/?earned=2,3,15&counts=28:9&open=28",
     "viewport": { "width": 1280, "height": 800 },
-    "scroll": 0,
-    "captureStyle": "html { zoom: .35; }",
-    "note": "Capture-only 35% page zoom fits the hero, audit, progress, toolbar, cards and open trophy 28 including its 9/18 counter and cited missable box in a single top-of-page frame. Shipped app files are unchanged."
+    "scroll": 0
   },
   {
     "file": "2-roadmap.jpg",
